@@ -1,4 +1,4 @@
-###, Trybe - Exercícios
+# Trybe - Exercícios
 
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Sandro Bistene Salas Filho enquanto estudava na Trybe.
