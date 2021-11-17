@@ -1,3 +1,6 @@
+###Trybe - Exercícios ###
+
+
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Sandro Bistene Salas Filho enquanto estudava na Trybe.
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
