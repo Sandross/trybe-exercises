@@ -12,7 +12,7 @@ console.log('divisão=' + divisão);
 módulo = (a%b);
 console.log('módulo=' + módulo);
 if(a>b){
-    console.log(a+' '+'É maior.')
+    console.log(a+' '+'É maior.') 
 }
 else{
     console.log(b +' '+'É maior.')
